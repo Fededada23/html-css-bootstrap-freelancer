@@ -4,8 +4,44 @@
     box-sizing: border-box;
 }
 
-.border-box{
-    border: 1px solid black;
+    
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    
+}
+.bg-blue{
+    background-color: rgba(44,62,80,255);
+
+}
+
+.text-white{
+    color: white;
+}
+
+#bg-green{
+    background-color: rgba(26,188,156,255);
+    color: white;
+    
+    
+}
+
+#bg-blue{
+    background-color: rgba(44,62,80,255);
+
+}
+
+#bg-green img{
+    width: 50%;
 }
 
 
+img{
+    width: 100%;
+    padding: 5px;
+}
+
+.border{
+    outline: 1px solid white;
+}
