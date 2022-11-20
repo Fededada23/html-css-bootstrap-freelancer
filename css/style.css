@@ -45,3 +45,20 @@ img{
 .border{
     outline: 1px solid white;
 }
+
+.line-star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+.hr{
+    border: 3px solid ;
+    width: 115px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.padding-bottom{
+    padding-bottom: 20px;
+}
